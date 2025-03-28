@@ -16,8 +16,8 @@
 
 ## 🚀 **Capturas de Pantalla**
 
-![Captura 1](capturas/image1.png)  
-![Captura 2](capturas/captura.mp4)
+![Captura 1](image1.png)  
+![Captura 2](captura.mp4)
 
 
 ---
