@@ -59,9 +59,9 @@ python main3.py
 
 ```
 Pokedex-Flet/
-│── main3.py            # Código principal de la Pokédex
+│── main.py            # Código principal de la Pokédex
 │── requirements.txt     # Dependencias necesarias
-│── image.png            # Captura de pantalla / GIF de la aplicación
+│── capturas/            # Capturas de pantalla / 
 │── README.md            # Este archivo con la documentación
 ```
 
